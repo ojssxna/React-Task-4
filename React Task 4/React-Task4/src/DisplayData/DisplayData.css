@@ -1,0 +1,17 @@
+.c {
+    color: #ffffff; /* White text color */
+    background-color: #1b1b1b; /* Dark background color */
+    font-size: 35px; /* Font size */
+}
+
+th {
+    border-bottom: 2px solid #ffffff; /* White underline for table headers */
+    color: #ffffff; /* White text color */
+}
+
+.table {
+    color: #ffffff; /* White text color */
+    background-color: #1b1b1b; /* Dark background color */
+    margin: 0 10px; /* Margin around the table */
+    border: 1px solid #ffffff; /* White border for the table */
+}
